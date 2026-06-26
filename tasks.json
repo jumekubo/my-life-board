@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "mqv4kzq050f7i44qgz6",
+    "title": "Write next Lumensparq article",
+    "cat": "nonprofit",
+    "status": "todo",
+    "note": "Check the editorial calendar for the next topic."
+  },
+  {
+    "id": "mqv4kzq0tbz364o52yb",
+    "title": "Review pending embroidery orders",
+    "cat": "business",
+    "status": "todo",
+    "note": ""
+  },
+  {
+    "id": "mqv4kzq0chk1jmzt805",
+    "title": "Declutter the living room",
+    "cat": "home",
+    "status": "todo",
+    "note": ""
+  },
+  {
+    "id": "mqv4kzq0288hot7k92j",
+    "title": "Schedule dentist appointment",
+    "cat": "personal",
+    "status": "todo",
+    "note": ""
+  },
+  {
+    "id": "mqv4kzq08eoaiwdgu1v",
+    "title": "Update Lumensparq website content",
+    "cat": "nonprofit",
+    "status": "todo",
+    "note": ""
+  }
+]
